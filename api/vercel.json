@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "functions": {
+    "api/generate.js": {
+      "maxDuration": 60
+    }
+  },
+  "routes": [
+    {
+      "src": "/kitobho.zip",
+      "dest": "/public/kitobho.zip"
+    }
+  ]
+}
